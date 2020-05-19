@@ -36,4 +36,7 @@ These are some survey guidelines for UX research project.
 -   Type of questions
 
 
+![alt text](https://raw.githubusercontent.com/nytubains/open-learning-app/master/survey/images/response-time.jpg "Logo Title Text 1")
+
+
 
